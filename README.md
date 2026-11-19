@@ -22,7 +22,8 @@ Toda Instância de EC2 possui um volume de armazeamento, com a EBS conseguimos t
 **Exemplo de Caso:**
 
 [Diagrama EBS](./diagramas/exemplo%201%20-%20diagrama%20EBS.drawio)
-[Diagrama EBS](./diagramas/imagens/diagrama%20EBS.png)
+
+![Diagrama EBS](./diagramas/imagens/diagrama%20EBS.png)
 
 ## S3 - Amazon Simple Storage Service
 
@@ -36,7 +37,8 @@ Toda Instância de EC2 possui um volume de armazeamento, com a EBS conseguimos t
 **Exemplo de Caso:**
 
 [Diagrama S3](./diagramas/exemplo%202%20-%20diagrama%20S3%20.drawio)
-[Diagrama EBS](./diagramas/imagens/diagrama%20S3.png)
+
+![Diagrama EBS](./diagramas/imagens/diagrama%20S3.png)
 
 ## Lambda
 
